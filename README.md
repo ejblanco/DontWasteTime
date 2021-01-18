@@ -1,4 +1,4 @@
-# WasteTime
+# ![Alt text](icons/icon.png?raw=true)Don't Waste Time
 A Firefox addon to avoid wasting time on the web. You simply need to provide a list of websites and a number saying how many times you can visit said website before blocking it.
 
 ![Alt text](images/2.png?raw=true "Options")
